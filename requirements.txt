@@ -1,0 +1,10 @@
+#Core dependencies
+gradio>=5.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+#Optional but recommended
+openpyxl>=3.1.0   # Excel export via pandas
+matplotlib>=3.7.0 # For visual charts (optional)
+Pillow>=10.0.0    # For image/vision simulation (optional)
+

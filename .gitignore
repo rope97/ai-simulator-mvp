@@ -1,0 +1,9 @@
+# Logs and database
+data/
+*.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
