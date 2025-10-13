@@ -83,7 +83,7 @@ Initialized with sample data using `setup_db.py`.
    `failure_detection.py` continuously checks for failure patterns and logs alerts.
 
  **Filament Monitoring**  
-   `filament_tracker.py` monitors all spools and triggers low-filament alerts.
+   `filamenttracker.py` monitors all spools and triggers low-filament alerts.
 
  **Real-Time Visualization**  
    The dashboard updates live from the database, showing progress and alerts in real time.
@@ -161,4 +161,4 @@ Suma suamrum -*-->
 
 ## Author
 
-* **Danica Dimitrijevic* - *Dievelopment improvements*
+* **Danica Dimitrijevic*
