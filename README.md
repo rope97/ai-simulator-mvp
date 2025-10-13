@@ -32,7 +32,7 @@ The goal is to demonstrate an **AI-assisted monitoring system** that integrates 
 
 ---
 
-### 3. Filament Tracker (`filament_tracker.py`)
+### 3. Filament Tracker (`filamenttracker.py`)
 - Monitors filament usage from the `spools` table.
 - Triggers alerts when remaining filament drops below **15%**.
 - Logs events in `data/filament_log.txt`.
