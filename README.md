@@ -161,4 +161,4 @@ Suma suamrum -*-->
 
 ## Author
 
-* **Danica Dimitrijevic*
+* Danica Dimitrijevic*
